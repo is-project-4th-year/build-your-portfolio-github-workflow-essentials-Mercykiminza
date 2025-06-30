@@ -2,39 +2,55 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Mercy Kiminza**:
+- **149013**:
+- **mercykiminza**:
+- **mercy.kiminza@strathmore.edu**:
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+ [](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-Mercykiminza/)
 
 ## 3. Learnings from the Git Crash Program
+ **What I Thought I'd Learn vs What I Actually Learned**
 
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-For each one, mention:
 
-What you thought it would be like **(Expectation 👀)**
+**1. Concept: GitHub Pages Deployment**
 
-What you actually learned **(Reality 😅)**
+**Expectation**: I thought deploying with GitHub Pages would be this super technical process with servers, terminals, and lots of config files.
 
-And how it helped with your personal portfolio project 💻
+**Reality**: It’s literally just pushing to the 'main' branch and enabling GitHub Pages in the repo settings. Way easier than expected.
 
-make it honest—and if it surprised you, even better!
+**Impact**: Seeing my portfolio live gave me such a confidence boost! It made the whole project feel real and professional,even though I only used HTML, CSS, and JavaScript.
 
-Example format:
+**2. Concept: Pull Requests and Merging**
 
-**🧠 What I Thought I'd Learn vs What I Actually Learned**
-**1. Concept: Branching**
+**Expectation**: I assumed pull requests were mostly for teams working on open-source projects—not something I'd use while coding alone.
 
-`Expectation 👀` : I thought branching was just for developers working on big apps—nothing I’d need for a small project.
+**Reality**: PRs turned out to be super helpful, even solo. They helped me keep my changes organized and gave me space to review before merging into 'main'.
 
-`Reality 😅`: Turns out even solo devs need branches! It helped me avoid breaking my main code while testing new designs.
+**Impact**: I opened a PR for each feature—like the homepage, about section, and contact and practiced merging cleanly (and even simulating a merge conflict!). Now I understand the whole workflow way better.
 
-`Impact 💡`: I created a feature branch for my "About Me" section and merged it smoothly into the main branch after testing. Super useful!
+
+**3. Concept: Commit Messages (feat:, fix:)**
+
+**Expectation**: I thought all commits were just casual messages like "updated stuff" or "fixed bug lo".
+
+**Reality**: Turns out, there's an actual convention. Using `feat:`, `fix:`, and `style:` made my Git history so much cleaner and more understandable.
+
+**Impact**: I used meaningful commits helped me track my progress and stay focused.
+
+
+**4. Concept: GitHub Project Boards**
+
+**Expectation**: I used to think GitHub project boards were only for professional devs who had big teams and perfect workflows.
+
+**Reality**: Nope! Even as a student, it’s a game changer. The board helped me break down my big portfolio into small, manageable tasks.
+
+**Impact**: I created a board with "To Do", "In Progress", and "Done" columns, assigned issues to each section, and watched my progress unfold visually. It made the whole thing way less overwhelming.
+
+
 
 ## 4. Screenshots of Key GitHub Features
 
@@ -51,18 +67,25 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 - Screenshot showing your milestone(s) and the issues linked to it.
 
+[Milestones and issues](assets\milestones and issues.png)
+
 ### B. Project Board
 
 - Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
 
+![Project Board Screenshot](assets\projectboard.png)
+
 ### C. Branching
 
 - Screenshot showing your branch list with meaningful naming.
+![Branches](assets\branches.png)
 
 ### D. Pull Requests
 
 - Screenshot of a pull request that’s either open or merged and linked to a related issue.
+![Pull Requests](assets\PR.png)
 
 ### E. Merge Conflict Resolution
 
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+
