@@ -67,7 +67,7 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 - Screenshot showing your milestone(s) and the issues linked to it.
 
-[Milestones and issues](assets\milestones and issues.png)
+[Milestones&Issues](assets\milestones and issues.png)
 
 ### B. Project Board
 
@@ -88,4 +88,5 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ### E. Merge Conflict Resolution
 
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+**I honestly forgot to take a screenshot!**
 
